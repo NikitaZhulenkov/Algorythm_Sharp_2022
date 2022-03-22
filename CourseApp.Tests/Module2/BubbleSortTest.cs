@@ -8,8 +8,8 @@ namespace CourseApp.Tests.Module2
     [Collection("Sequential")]
     public class BubbleSortTest : IDisposable
     {
-        private const string Inp1 = @"7
-5 1 7 3 9 4 1";
+        private const string Inp1 = @"8
+5 1 7 3 9 4 1 5";
 
         private const string Inp2 = @"3
 -10 7 2";
